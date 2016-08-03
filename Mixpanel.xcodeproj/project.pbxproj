@@ -1315,7 +1315,7 @@
 					"$(PROJECT_DIR)/Mixpanel",
 				);
 				MODULEMAP_FILE = Mixpanel/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mixpanel.Mixpanel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mixpanel.MixpanelAppExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -1341,7 +1341,7 @@
 					"$(PROJECT_DIR)/Mixpanel",
 				);
 				MODULEMAP_FILE = Mixpanel/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mixpanel.Mixpanel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mixpanel.MixpanelAppExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
